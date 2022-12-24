@@ -20,21 +20,4 @@ def load_file(text_file):
     print(contents)
 
 
-def set_limit(low):
-    """Set high limit to new value from user input."""
-    print("Set new limit")
-    new_high = int(input(f"Enter a new high value, above {low}: "))
-    while new_high <= low:
-        new_high = int(input(f"Enter a new high value, above {low}: "))
-    return new_high
-
-
-def display_range(low, high):
-    value = 0
-    for value in range(low, high):
-        print(value, end=" ")
-        value += 1
-    return value
-
-
 main()
