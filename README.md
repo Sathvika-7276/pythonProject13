@@ -1,5 +1,6 @@
 # pythonProject13
-##practical 7
+## practical 7
+
 This respository contains an extended version classes concept with files concept such as read(), readline(), readlines() concepts. It also includes menu driven program which incorportates classes concept moving the difficult of code one step further. 
 I am Sathvika Subramanian, currently doing second semester in James Cook university, Singapore studying Bachelor of Science(Majoring in Data Science).
 
