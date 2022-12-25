@@ -9,4 +9,5 @@ Three main points i learnt about clean code in this subject:
 - DRY or dont repeat yourself is an important concept where the code lines are not repeated again to solve the problem.
 - Proper indentation or spacing is a must between codelines for clarity
 
+https://github.com/CP1404/Practicals/tree/master/prac_07
 https://github.com/CP1404/Practicals/blob/master/prac_07/README.md
